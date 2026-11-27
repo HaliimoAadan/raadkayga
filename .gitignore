@@ -1,0 +1,7 @@
+.DS_Store
+backend/node_modules/
+backend/dist/
+backend/data/
+backend/.env
+frontend/.dart_tool/
+frontend/build/
